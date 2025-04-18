@@ -72,3 +72,15 @@ li {
     border-radius: 15px;
     margin: 5px 0;
 }
+
+.delete-btn {
+    margin-right: 0;
+    border: none;
+    cursor: pointer;
+}
+
+.edit-btn {
+    margin-right: 0;
+    border: none;
+    cursor: pointer;
+}
